@@ -35,11 +35,11 @@ flowchart TD
 
 ## 🗄️ Database schema
 
-![Database schema](images/df_schema.png")
+![Database schema](images/df_schema.PNG")
 
 ## 📊 Dashboard Preview
 
-![Product Analytics Dashboard](dashboards/etl_project_dashboard_en.png)
+![Product Analytics Dashboard](power bi/etl_project_dashboard_en.PNG)
 
 ## 🔗 Data Source
 
@@ -81,11 +81,11 @@ flowchart TD
 
 ## 🗄️ Схема базы данных
 
-![Схема базы данных](images/df_schema.png)
+![Схема базы данных](images/df_schema.PNG)
 
 ## 📊 Дашборд
 
-![Дашборд](dashboards/etl_project_dashboard_ru.png)
+![Дашборд](power bi/etl_project_dashboard_ru.PNG)
 
 ## 🔗 Источник данных
 
