@@ -39,7 +39,7 @@ flowchart TD
 
 ## 📊 Dashboard Preview
 
-![Product Analytics Dashboard](power bi/etl_project_dashboard_en.PNG)
+![Product Analytics Dashboard](./power%20bi/etl_project_dashboard_en.png)
 
 ## 🔗 Data Source
 
@@ -85,7 +85,7 @@ flowchart TD
 
 ## 📊 Дашборд
 
-![Дашборд](power bi/etl_project_dashboard_ru.PNG)
+![Дашборд](./power%20bi/etl_project_dashboard_ru.png)
 
 ## 🔗 Источник данных
 
