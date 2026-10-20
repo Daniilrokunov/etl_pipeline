@@ -50,15 +50,15 @@ flowchart TD
 
 В данном проекте строится ETL пайплайн, который извлекает данные из бесплатного публичного REST API (Fake Store API), трансформирует их в Python, переносит в БД с помощью PostgreSQL и строит аналитический дашборд в Power BI.
 
-## 🔄 ETL Pipeline
+## 🔄 Пайплайн
 
 ```mermaid
 flowchart TD
     A["🛒 Fake Store API<br/>Товары · Корзины · Покупатели"]
-    B["📥 Извлечение<br/>Извлечение из API"]
+    B["📥 Извлечение из API"]
     C["⚙️ Трансформация<br/>Python · Pandas"]
     D["📦 Загрузка<br/>PostgreSQL"]
-    E["📊 Анализ & Визуализация<br/>Power BI"]
+    E["📊 Анализ и Визуализация<br/>Power BI"]
 
     A --> B --> C --> D --> E
 
@@ -81,7 +81,7 @@ flowchart TD
 
 ## 🗄️ Схема базы данных
 
-![Схема базы данных](images/df_schema.png")
+![Схема базы данных](images/df_schema.png)
 
 ## 📊 Дашборд
 
